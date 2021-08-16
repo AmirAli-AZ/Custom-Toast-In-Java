@@ -1,5 +1,13 @@
 # Custom-Toast-In-Sketchware
 
+# Features
+1. Set Long Or short time
+2. set background color
+3. set text color
+4. set corner radius
+5. set text size
+
+# Class
 first create MyToast.java in java manage files and add this class
 ```java
 package com.my.newproject49;
