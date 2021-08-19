@@ -6,6 +6,7 @@
 3. set text color
 4. set corner radius
 5. set text size
+6. set gravity
 
 # Usage
 
