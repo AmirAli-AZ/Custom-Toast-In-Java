@@ -16,8 +16,12 @@ Custom Toast
 ```java
 ToastKit.showCustomToast(getApplicationContext(), "Hello World!", false , "#FFFFFF" , 19 , "#2196F3", 15 , 2);
 ```
-Normal Toast
+Normal Toast 1
 ```java
 ToastKit.showNormalToast(getApplicationContext(), "Hello World!", 3, false);
+```
+Normal Toast 2
+```java
+ToastKit.showMessage(getApplicationContext(), "Hello World!");
 ```
  
