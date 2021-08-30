@@ -73,4 +73,9 @@ public class ToastKit {
 	  }
 	  toast.show();
 	}
+	public static void showMessage(Context context , String text){
+		
+		Toast.makeText(context, text, Toast.LENGTH_SHORT).show();
+	}
+	
 }
